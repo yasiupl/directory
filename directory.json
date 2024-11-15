@@ -153,7 +153,7 @@
   "Perth Artifactory": "http://space.artifactory.org.au/spaceapi.json",
   "Pixelbar": "https://spaceapi.pixelbar.nl/",
   "Polytechnischer Werkraum Zittau": "https://www.werkraum.space/spaceapi/current/",
-  "Pomerania Hackerspace": "https://status.hsp.sh/api/now",
+  "Pomerania Hackerspace": "https://spaceapi.at.hsp.sh/api/now",
   "Port39": "https://port39.de/spaceapi.json",
   "Post Tenebras Lab": "https://www.posttenebraslab.ch/status/status.json",
   "Programvareverkstedet": "https://www.pvv.ntnu.no/spaceapi.php",
